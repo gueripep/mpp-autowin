@@ -1,0 +1,211 @@
+
+<style>
+.ev-wrap { padding: 1rem 0; font-family: var(--font-sans); }
+.ev-controls { display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 10px; margin-bottom: 1rem; }
+.ev-controls label { font-size: 12px; color: var(--color-text-secondary); display: block; margin-bottom: 4px; }
+.ev-controls input { font-size: 13px; padding: 5px 8px; border: 0.5px solid var(--color-border-secondary); border-radius: var(--border-radius-md); background: var(--color-background-primary); color: var(--color-text-primary); width: 100%; box-sizing: border-box; }
+.ev-note { font-size: 11px; color: var(--color-text-secondary); background: var(--color-background-secondary); border-radius: var(--border-radius-md); padding: 8px 12px; margin-bottom: 1rem; }
+table.ev-table { width: 100%; border-collapse: collapse; font-size: 12px; }
+table.ev-table th { font-size: 11px; color: var(--color-text-secondary); font-weight: 400; text-align: left; padding: 6px 8px; border-bottom: 0.5px solid var(--color-border-tertiary); white-space: nowrap; }
+table.ev-table td { padding: 5px 8px; border-bottom: 0.5px solid var(--color-border-tertiary); color: var(--color-text-primary); vertical-align: middle; }
+table.ev-table tr:last-child td { border-bottom: none; }
+.tier-badge { display: inline-block; font-size: 10px; padding: 2px 7px; border-radius: 20px; font-weight: 500; white-space: nowrap; }
+.tier-easy   { background: #D3D1C7; color: #444441; }
+.tier-rare   { background: #B5D4F4; color: #0C447C; }
+.tier-vrare  { background: #9FE1CB; color: #085041; }
+.tier-mrare  { background: #FAC775; color: #633806; }
+.tier-ultra  { background: #F5C4B3; color: #712B13; }
+.ev-pos { color: #1D9E75; font-weight: 500; }
+.ev-neg { color: #D85A30; }
+.ev-zero { color: var(--color-text-secondary); }
+.score-cell { font-weight: 500; font-size: 13px; }
+.pct-bar { background: var(--color-border-tertiary); border-radius: 3px; height: 5px; width: 80px; display: inline-block; vertical-align: middle; margin-left: 4px; }
+.pct-fill { height: 5px; border-radius: 3px; }
+.section-label { font-size: 11px; color: var(--color-text-secondary); margin: 1rem 0 0.4rem; font-weight: 500; }
+.bias-note { font-size: 11px; color: var(--color-text-secondary); margin: 0 0 8px; padding: 6px 10px; border-left: 2px solid var(--color-border-secondary); }
+</style>
+
+<div class="ev-wrap">
+  <div class="ev-controls">
+    <div><label>Home team</label><input type="text" id="hn" value="Mexico"></div>
+    <div><label>Away team</label><input type="text" id="an" value="South Africa"></div>
+    <div></div>
+    <div><label>Home odds (decimal)</label><input type="number" id="ho" value="1.42" step="0.01" min="1.01"></div>
+    <div><label>Draw odds (decimal)</label><input type="number" id="do" value="4.50" step="0.01" min="1.01"></div>
+    <div><label>Away odds (decimal)</label><input type="number" id="ao" value="8.00" step="0.01" min="1.01"></div>
+    <div><label>Avg goals baseline</label><input type="number" id="bg" value="2.6" step="0.1" min="1.5"></div>
+    <div><label>Human bias on fav (+xG)</label><input type="number" id="hbias" value="0.28" step="0.05" min="0" max="1"></div>
+    <div><label>Human bias on underdog (-xG)</label><input type="number" id="abias" value="0.22" step="0.05" min="0" max="1"></div>
+  </div>
+
+  <div class="ev-note" id="biasNote"></div>
+  <div id="results"></div>
+</div>
+
+<script>
+function poissonPMF(k, lambda) {
+  if (lambda <= 0) return k === 0 ? 1 : 0;
+  let logP = -lambda + k * Math.log(Math.max(lambda, 1e-10));
+  for (let i = 1; i <= k; i++) logP -= Math.log(i);
+  return Math.exp(logP);
+}
+
+function matchProbs(lam, mu, maxG=8) {
+  let hw=0, dr=0, aw=0;
+  for (let h=0;h<=maxG;h++) for (let a=0;a<=maxG;a++) {
+    const p = poissonPMF(h,lam)*poissonPMF(a,mu);
+    if(h>a) hw+=p; else if(h===a) dr+=p; else aw+=p;
+  }
+  return {hw,dr,aw};
+}
+
+function solveExpG(pH, pD, pA, totalGoals) {
+  let bestLam=1.3, bestMu=0.7, bestErr=Infinity;
+  for (let r=0.5;r<=15;r+=0.05) {
+    for (let s=0.2;s<=4.0;s+=0.05) {
+      const lam=r*s, mu=s;
+      const {hw,dr,aw}=matchProbs(lam,mu);
+      const err=(hw-pH)**2+(dr-pD)**2+(aw-pA)**2;
+      if(err<bestErr){bestErr=err;bestLam=lam;bestMu=mu;}
+    }
+  }
+  const rawTotal=bestLam+bestMu;
+  const sf=totalGoals/rawTotal;
+  return {lam:bestLam*sf, mu:bestMu*sf};
+}
+
+function tierInfo(humanPct) {
+  if (humanPct > 30) return {label:'Easy', pts:20, cls:'tier-easy'};
+  if (humanPct > 20) return {label:'Rare', pts:30, cls:'tier-rare'};
+  if (humanPct > 5)  return {label:'Très rare', pts:50, cls:'tier-vrare'};
+  if (humanPct > 0.5) return {label:'Mega rare', pts:70, cls:'tier-mrare'};
+  return {label:'Ultra rare', pts:100, cls:'tier-ultra'};
+}
+
+function barColor(tier) {
+  const m = {Easy:'#B4B2A9',Rare:'#378ADD','Très rare':'#1D9E75','Mega rare':'#BA7517','Ultra rare':'#D85A30'};
+  return m[tier.label] || '#888';
+}
+
+function render() {
+  const hn = document.getElementById('hn').value || 'Home';
+  const an = document.getElementById('an').value || 'Away';
+  const hOdds = parseFloat(document.getElementById('ho').value);
+  const dOdds = parseFloat(document.getElementById('do').value);
+  const aOdds = parseFloat(document.getElementById('ao').value);
+  const totalGoals = parseFloat(document.getElementById('bg').value);
+  const hBias = parseFloat(document.getElementById('hbias').value); // humans add to favourite
+  const aBias = parseFloat(document.getElementById('abias').value); // humans subtract from underdog
+
+  if ([hOdds,dOdds,aOdds].some(v=>isNaN(v)||v<1.01)) return;
+
+  // True probs
+  const rH=1/hOdds, rD=1/dOdds, rA=1/aOdds;
+  const margin=rH+rD+rA;
+  const pH=rH/margin, pD=rD/margin, pA=rA/margin;
+
+  // Statistical xG
+  const {lam, mu} = solveExpG(pH, pD, pA, totalGoals);
+
+  // Human xG = biased: over-estimates favourite, under-estimates underdog
+  // Favourite is home (Mexico has ~67% chance)
+  const lamH = Math.max(0.1, lam + hBias);  // humans expect more from favourite
+  const muH  = Math.max(0.05, mu - aBias);  // humans expect less from underdog
+
+  // Renormalise human to same total
+  const humanTotal = lamH + muH;
+  const lamHn = lamH * (totalGoals / humanTotal);
+  const muHn  = muH  * (totalGoals / humanTotal);
+
+  // Build scoreline table
+  const scores = [];
+  for (let h=0;h<=5;h++) for (let a=0;a<=5;a++) {
+    const pTrue = poissonPMF(h,lam)*poissonPMF(a,mu);
+    const pHuman = poissonPMF(h,lamHn)*poissonPMF(a,muHn);
+    scores.push({h,a,pTrue,pHuman});
+  }
+  scores.sort((x,y)=>y.pTrue-x.pTrue);
+
+  // Among players who pick the right result, what fraction pick each exact score?
+  // Group by result
+  const homeScores = scores.filter(s=>s.h>s.a);
+  const drawScores = scores.filter(s=>s.h===s.a);
+  const awayScores = scores.filter(s=>s.h<s.a);
+
+  const humanHomeTotal = homeScores.reduce((s,x)=>s+x.pHuman,0);
+  const humanDrawTotal = drawScores.reduce((s,x)=>s+x.pHuman,0);
+  const humanAwayTotal = awayScores.reduce((s,x)=>s+x.pHuman,0);
+
+  // For each score, humanPct = among players with correct result, % picking that exact score
+  const topN = scores.slice(0, 20);
+
+  // Max human pct for bar scaling
+  let maxHumanPct = 0;
+  topN.forEach(s => {
+    const grpTotal = s.h > s.a ? humanHomeTotal : s.h === s.a ? humanDrawTotal : humanAwayTotal;
+    const hp = grpTotal > 0 ? (s.pHuman / grpTotal) * 100 : 0;
+    if (hp > maxHumanPct) maxHumanPct = hp;
+  });
+
+  // Update bias note
+  document.getElementById('biasNote').innerHTML =
+    `📊 <strong>Human bias model (LSE/Superbru research):</strong> Casual predictors overestimate the favourite's goals by ~+${hBias} and underestimate the underdog by ~-${aBias}. This shifts mass toward ${hn} win scores like 1-0, 2-0, 2-1, making them "Easy" picks — and away from draws/upsets. Human xG: ${hn} ${lamHn.toFixed(2)} · ${an} ${muHn.toFixed(2)}.`;
+
+  // Build rows
+  let rows = '';
+  topN.forEach(s => {
+    const grpTotal = s.h > s.a ? humanHomeTotal : s.h === s.a ? humanDrawTotal : humanAwayTotal;
+    const humanPct = grpTotal > 0 ? (s.pHuman / grpTotal) * 100 : 0;
+    const tier = tierInfo(humanPct);
+    const pts = tier.pts;
+    const pTrue = s.pTrue * 100;
+    const ev = (pTrue / 100) * pts;
+    const evStr = ev.toFixed(2);
+    const evClass = ev >= pts * 0.15 ? 'ev-pos' : ev >= pts * 0.07 ? 'ev-zero' : 'ev-neg';
+    const barW = Math.min(100, (humanPct / maxHumanPct) * 100).toFixed(0);
+
+    rows += `<tr>
+      <td class="score-cell">${s.h}–${s.a}</td>
+      <td>${pTrue.toFixed(1)}%</td>
+      <td>
+        ${humanPct.toFixed(1)}%
+        <span class="pct-bar"><span class="pct-fill" style="width:${barW}%; background:${barColor(tier)}"></span></span>
+      </td>
+      <td><span class="tier-badge ${tier.cls}">${tier.label}</span></td>
+      <td style="text-align:center">${pts}</td>
+      <td class="${evClass}">${evStr}</td>
+    </tr>`;
+  });
+
+  document.getElementById('results').innerHTML = `
+    <div style="font-size:12px; color:var(--color-text-secondary); margin-bottom:0.75rem;">
+      Statistical xG — ${hn}: <strong style="color:var(--color-text-primary)">${lam.toFixed(2)}</strong> &nbsp;·&nbsp;
+      ${an}: <strong style="color:var(--color-text-primary)">${mu.toFixed(2)}</strong>
+    </div>
+
+    <p class="section-label">Top 20 scorelines ranked by true probability — with human pick share and expected value</p>
+
+    <table class="ev-table">
+      <thead><tr>
+        <th>Score<br><span style="font-size:10px;color:var(--color-text-secondary)">${hn}–${an}</span></th>
+        <th>True prob<br><span style="font-size:10px">Poisson model</span></th>
+        <th>Human pick %<br><span style="font-size:10px">among correct-result pickers</span></th>
+        <th>Rarity tier</th>
+        <th style="text-align:center">Pts</th>
+        <th>EV<br><span style="font-size:10px">pts × prob</span></th>
+      </tr></thead>
+      <tbody>${rows}</tbody>
+    </table>
+
+    <p style="font-size:11px; color:var(--color-text-secondary); margin-top:0.75rem; padding-top:0.75rem; border-top:0.5px solid var(--color-border-tertiary);">
+      EV = (true probability of that score) × (points awarded if correct). Higher EV = better expected return per pick.
+      Human pick % is modelled from the LSE crowd bias study (+${hBias}xG on favourite, -${aBias}xG on underdog) applied to a Poisson pick distribution, then normalised within each correct-result group.
+    </p>
+  `;
+}
+
+['hn','an','ho','do','ao','bg','hbias','abias'].forEach(id=>{
+  document.getElementById(id).addEventListener('input', render);
+});
+render();
+</script>

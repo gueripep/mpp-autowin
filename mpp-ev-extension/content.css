@@ -1,0 +1,132 @@
+.mpp-ev {
+  font-size: 0.75em;
+  font-weight: bold;
+  color: #f0c040;
+  margin-top: 2px;
+  text-align: center;
+  letter-spacing: 0.03em;
+}
+
+.mpp-ev-first::before {
+  content: "EV ";
+  font-size: 0.85em;
+  opacity: 0.7;
+}
+
+.mpp-score-outcome-ev {
+  margin-top: 2px;
+  color: #9fe1cb;
+  font-size: 0.68em;
+  font-weight: 700;
+  letter-spacing: 0.03em;
+  text-align: center;
+  cursor: help;
+}
+
+.mpp-score-outcome-ev-first::before {
+  content: "S+O ";
+  font-size: 0.85em;
+  opacity: 0.72;
+}
+
+.mpp-contest-signal {
+  margin-top: 2px;
+  color: rgba(255, 255, 255, 0.68);
+  font-size: 0.58em;
+  font-weight: 700;
+  line-height: 1.15;
+  text-align: center;
+  cursor: help;
+}
+
+.mpp-contest-signal-plus {
+  color: #9fe1cb;
+}
+
+.mpp-x2-flag {
+  font-size: 0.7em;
+  font-weight: bold;
+  color: #ffd700;
+  background: rgba(255, 215, 0, 0.15);
+  border: 1px solid rgba(255, 215, 0, 0.4);
+  border-radius: 3px;
+  padding: 1px 4px;
+  margin-top: 3px;
+  text-align: center;
+  cursor: help;
+  animation: mpp-x2-pulse 2s ease-in-out infinite;
+}
+
+@keyframes mpp-x2-pulse {
+  0%, 100% { opacity: 1; }
+  50% { opacity: 0.5; }
+}
+
+.mpp-score-ev {
+  margin-top: 8px;
+  padding: 6px;
+  border: 1px solid rgba(240, 192, 64, 0.25);
+  border-radius: 6px;
+  background: rgba(0, 0, 0, 0.18);
+  font-size: 11px;
+  align-self: stretch;
+  width: 100%;
+  box-sizing: border-box;
+}
+
+.mpp-score-ev-title {
+  margin-bottom: 4px;
+  color: #f0c040;
+  font-size: 10px;
+  font-weight: 700;
+  letter-spacing: 0.04em;
+  text-transform: uppercase;
+}
+
+.mpp-score-ev-table {
+  width: 100%;
+  border-collapse: collapse;
+}
+
+.mpp-score-ev-table th,
+.mpp-score-ev-table td {
+  padding: 3px 4px;
+  text-align: left;
+  white-space: nowrap;
+}
+
+.mpp-score-ev-table th {
+  color: rgba(255, 255, 255, 0.62);
+  font-size: 10px;
+  font-weight: 600;
+}
+
+.mpp-score-outcome-label {
+  color: rgba(255, 255, 255, 0.75);
+  font-size: 10px;
+  max-width: 70px;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+
+.mpp-score-cell,
+.mpp-score-ev-value {
+  color: #fff;
+  font-weight: 700;
+}
+
+.mpp-score-tier {
+  display: inline-block;
+  min-width: 46px;
+  padding: 1px 5px;
+  border-radius: 999px;
+  font-size: 9px;
+  font-weight: 700;
+  text-align: center;
+}
+
+.mpp-score-tier-easy { background: #d3d1c7; color: #444441; }
+.mpp-score-tier-rare { background: #b5d4f4; color: #0c447c; }
+.mpp-score-tier-vrare { background: #9fe1cb; color: #085041; }
+.mpp-score-tier-mrare { background: #fac775; color: #633806; }
+.mpp-score-tier-ultra { background: #f5c4b3; color: #712b13; }

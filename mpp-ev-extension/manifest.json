@@ -1,0 +1,19 @@
+{
+  "manifest_version": 3,
+  "name": "MPP EV Injector",
+  "version": "1.0",
+  "description": "Injects expected value of points for each outcome on mpp.football",
+  "permissions": ["storage"],
+  "host_permissions": ["https://api.the-odds-api.com/*"],
+  "web_accessible_resources": [
+    { "resources": ["world_cup_2026_pool_odds.json"], "matches": ["*://mpp.football/*"] }
+  ],
+  "content_scripts": [
+    {
+      "matches": ["*://mpp.football/*"],
+      "js": ["config.js", "content.js"],
+      "css": ["content.css"],
+      "run_at": "document_idle"
+    }
+  ]
+}

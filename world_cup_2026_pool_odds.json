@@ -1,0 +1,4529 @@
+[
+  {
+    "match": "Mexico v South Africa",
+    "date": "2026-06-11T15:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/mexico-v-south-africa",
+    "home_team": "Mexico",
+    "away_team": "South Africa",
+    "odds": {
+      "home": {
+        "team": "Mexico",
+        "bookmakers": [
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "6/13",
+            "decimal": 1.46,
+            "american": "-217"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "3/7",
+            "decimal": 1.43,
+            "american": "-235"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "21/50",
+            "decimal": 1.42,
+            "american": "-239"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "20/49",
+            "decimal": 1.41,
+            "american": "-245"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "4/11",
+            "decimal": 1.38,
+            "american": "-265"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "18/5",
+            "decimal": 4.6,
+            "american": "+360"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "18/5",
+            "decimal": 4.6,
+            "american": "+360"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "7/2",
+            "decimal": 4.5,
+            "american": "+350"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "17/5",
+            "decimal": 4.4,
+            "american": "+340"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "33/10",
+            "decimal": 4.3,
+            "american": "+330"
+          }
+        ]
+      },
+      "away": {
+        "team": "South Africa",
+        "bookmakers": [
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "129/16",
+            "decimal": 9.06,
+            "american": "+806"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "8/1",
+            "decimal": 9,
+            "american": "+800"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "7/1",
+            "decimal": 8,
+            "american": "+700"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "7/1",
+            "decimal": 8,
+            "american": "+700"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "27/4",
+            "decimal": 7.75,
+            "american": "+675"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "South Korea v Czech Republic",
+    "date": "2026-06-11T22:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/south-korea-v-czech-republic",
+    "home_team": "South Korea",
+    "away_team": "Czech Republic",
+    "odds": {
+      "home": {
+        "team": "South Korea",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "17/10",
+            "decimal": 2.7,
+            "american": "+170"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "28/17",
+            "decimal": 2.65,
+            "american": "+165"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "28/17",
+            "decimal": 2.65,
+            "american": "+165"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "13/8",
+            "decimal": 2.63,
+            "american": "+163"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "157/100",
+            "decimal": 2.57,
+            "american": "+157"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "28/13",
+            "decimal": 3.15,
+            "american": "+215"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "21/10",
+            "decimal": 3.1,
+            "american": "+210"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "21/10",
+            "decimal": 3.1,
+            "american": "+210"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "41/20",
+            "decimal": 3.05,
+            "american": "+205"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "41/20",
+            "decimal": 3.05,
+            "american": "+205"
+          }
+        ]
+      },
+      "away": {
+        "team": "Czech Republic",
+        "bookmakers": [
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "19/10",
+            "decimal": 2.9,
+            "american": "+190"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "19/10",
+            "decimal": 2.9,
+            "american": "+190"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "183/100",
+            "decimal": 2.83,
+            "american": "+183"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "9/5",
+            "decimal": 2.8,
+            "american": "+180"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "7/4",
+            "decimal": 2.75,
+            "american": "+175"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Canada v Bosnia and Herzegovina",
+    "date": "2026-06-12T15:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/canada-v-bosnia-and-herzegovina",
+    "home_team": "Canada",
+    "away_team": "Bosnia and Herzegovina",
+    "odds": {
+      "home": {
+        "team": "Canada",
+        "bookmakers": [
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "5/6",
+            "decimal": 1.83,
+            "american": "-120"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "9/11",
+            "decimal": 1.82,
+            "american": "-122"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "4/5",
+            "decimal": 1.8,
+            "american": "-125"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "100/129",
+            "decimal": 1.78,
+            "american": "-129"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "3/4",
+            "decimal": 1.77,
+            "american": "-130"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "13/5",
+            "decimal": 3.65,
+            "american": "+265"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "45/17",
+            "decimal": 3.65,
+            "american": "+265"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "13/5",
+            "decimal": 3.6,
+            "american": "+260"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "5/2",
+            "decimal": 3.5,
+            "american": "+250"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "5/2",
+            "decimal": 3.5,
+            "american": "+250"
+          }
+        ]
+      },
+      "away": {
+        "team": "Bosnia and Herzegovina",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "15/4",
+            "decimal": 4.75,
+            "american": "+375"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "18/5",
+            "decimal": 4.6,
+            "american": "+360"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "7/2",
+            "decimal": 4.5,
+            "american": "+350"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "7/2",
+            "decimal": 4.5,
+            "american": "+350"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "17/5",
+            "decimal": 4.4,
+            "american": "+340"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "USA v Paraguay",
+    "date": "2026-06-12T21:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/usa-v-paraguay",
+    "home_team": "USA",
+    "away_team": "Paraguay",
+    "odds": {
+      "home": {
+        "team": "USA",
+        "bookmakers": [
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "24/23",
+            "decimal": 2.04,
+            "american": "+104"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "19/20",
+            "decimal": 1.96,
+            "american": "-105"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "19/20",
+            "decimal": 1.95,
+            "american": "-105"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "10/11",
+            "decimal": 1.91,
+            "american": "-110"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "10/11",
+            "decimal": 1.909,
+            "american": "-111"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "27/11",
+            "decimal": 3.45,
+            "american": "+245"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "12/5",
+            "decimal": 3.4,
+            "american": "+240"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "12/5",
+            "decimal": 3.4,
+            "american": "+240"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "47/20",
+            "decimal": 3.35,
+            "american": "+235"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "23/10",
+            "decimal": 3.3,
+            "american": "+230"
+          }
+        ]
+      },
+      "away": {
+        "team": "Paraguay",
+        "bookmakers": [
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "33/10",
+            "decimal": 4.3,
+            "american": "+330"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "16/5",
+            "decimal": 4.2,
+            "american": "+320"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "16/5",
+            "decimal": 4.2,
+            "american": "+320"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "61/20",
+            "decimal": 4.05,
+            "american": "+305"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "29/10",
+            "decimal": 3.9,
+            "american": "+290"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Qatar v Switzerland",
+    "date": "2026-06-13T15:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/qatar-v-switzerland",
+    "home_team": "Qatar",
+    "away_team": "Switzerland",
+    "odds": {
+      "home": {
+        "team": "Qatar",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 16.0,
+            "american": "1500"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 7.0,
+            "american": "600"
+          }
+        ]
+      },
+      "away": {
+        "team": "Switzerland",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.2198,
+            "american": "-455"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Brazil v Morocco",
+    "date": "2026-06-13T18:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/brazil-v-morocco",
+    "home_team": "Brazil",
+    "away_team": "Morocco",
+    "odds": {
+      "home": {
+        "team": "Brazil",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.6993,
+            "american": "-143"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.9,
+            "american": "290"
+          }
+        ]
+      },
+      "away": {
+        "team": "Morocco",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 5.91,
+            "american": "491"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Haiti v Scotland",
+    "date": "2026-06-13T21:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/haiti-v-scotland",
+    "home_team": "Haiti",
+    "away_team": "Scotland",
+    "odds": {
+      "home": {
+        "team": "Haiti",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 6.5,
+            "american": "550"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.35,
+            "american": "335"
+          }
+        ]
+      },
+      "away": {
+        "team": "Scotland",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.5587,
+            "american": "-179"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Australia v Turkey",
+    "date": "2026-06-14T00:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/australia-v-turkey",
+    "home_team": "Australia",
+    "away_team": "Turkey",
+    "odds": {
+      "home": {
+        "team": "Australia",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "21/5",
+            "decimal": 5.2,
+            "american": "+420"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "4/1",
+            "decimal": 5,
+            "american": "+400"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "4/1",
+            "decimal": 5,
+            "american": "+400"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "39/10",
+            "decimal": 4.9,
+            "american": "+390"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "15/4",
+            "decimal": 4.75,
+            "american": "+375"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "14/5",
+            "decimal": 3.8,
+            "american": "+280"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "11/4",
+            "decimal": 3.75,
+            "american": "+275"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "27/10",
+            "decimal": 3.7,
+            "american": "+270"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "53/20",
+            "decimal": 3.65,
+            "american": "+265"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "13/5",
+            "decimal": 3.6,
+            "american": "+260"
+          }
+        ]
+      },
+      "away": {
+        "team": "Turkey",
+        "bookmakers": [
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "10/13",
+            "decimal": 1.77,
+            "american": "-130"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "8/11",
+            "decimal": 1.73,
+            "american": "-137"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "7/10",
+            "decimal": 1.7,
+            "american": "-143"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "7/10",
+            "decimal": 1.7,
+            "american": "-143"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "20/29",
+            "decimal": 1.69,
+            "american": "-145"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Germany v Curacao",
+    "date": "2026-06-14T13:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/germany-v-curacao",
+    "home_team": "Germany",
+    "away_team": "Curacao",
+    "odds": {
+      "home": {
+        "team": "Germany",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.05,
+            "american": "-2000"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 19.0,
+            "american": "1800"
+          }
+        ]
+      },
+      "away": {
+        "team": "Curacao",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 51.0,
+            "american": "5000"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Netherlands v Japan",
+    "date": "2026-06-14T16:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/netherlands-v-japan",
+    "home_team": "Netherlands",
+    "away_team": "Japan",
+    "odds": {
+      "home": {
+        "team": "Netherlands",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 2.1,
+            "american": "110"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.6,
+            "american": "260"
+          }
+        ]
+      },
+      "away": {
+        "team": "Japan",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.85,
+            "american": "285"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Ivory Coast v Ecuador",
+    "date": "2026-06-14T19:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/ivory-coast-v-ecuador",
+    "home_team": "Ivory Coast",
+    "away_team": "Ecuador",
+    "odds": {
+      "home": {
+        "team": "Ivory Coast",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.65,
+            "american": "265"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 2.85,
+            "american": "185"
+          }
+        ]
+      },
+      "away": {
+        "team": "Ecuador",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 2.38,
+            "american": "138"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Sweden v Tunisia",
+    "date": "2026-06-14T22:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/sweden-v-tunisia",
+    "home_team": "Sweden",
+    "away_team": "Tunisia",
+    "odds": {
+      "home": {
+        "team": "Sweden",
+        "bookmakers": [
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "19/20",
+            "decimal": 1.95,
+            "american": "-105"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "10/11",
+            "decimal": 1.92,
+            "american": "-109"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "8/9",
+            "decimal": 1.89,
+            "american": "-112"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "50/57",
+            "decimal": 1.88,
+            "american": "-114"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "17/20",
+            "decimal": 1.85,
+            "american": "-118"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "12/5",
+            "decimal": 3.4,
+            "american": "+240"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "47/20",
+            "decimal": 3.35,
+            "american": "+235"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "47/20",
+            "decimal": 3.35,
+            "american": "+235"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "23/10",
+            "decimal": 3.3,
+            "american": "+230"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "23/10",
+            "decimal": 3.3,
+            "american": "+230"
+          }
+        ]
+      },
+      "away": {
+        "team": "Tunisia",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "7/2",
+            "decimal": 4.5,
+            "american": "+350"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "10/3",
+            "decimal": 4.35,
+            "american": "+335"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "16/5",
+            "decimal": 4.2,
+            "american": "+320"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "61/20",
+            "decimal": 4.05,
+            "american": "+305"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "3/1",
+            "decimal": 4,
+            "american": "+300"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Spain v Cape Verde",
+    "date": "2026-06-15T12:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/spain-v-cape-verde",
+    "home_team": "Spain",
+    "away_team": "Cape Verde",
+    "odds": {
+      "home": {
+        "team": "Spain",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.1,
+            "american": "-1000"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 12.0,
+            "american": "1100"
+          }
+        ]
+      },
+      "away": {
+        "team": "Cape Verde",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 29.0,
+            "american": "2800"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Belgium v Egypt",
+    "date": "2026-06-15T15:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/belgium-v-egypt",
+    "home_team": "Belgium",
+    "away_team": "Egypt",
+    "odds": {
+      "home": {
+        "team": "Belgium",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.6667,
+            "american": "-150"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.85,
+            "american": "285"
+          }
+        ]
+      },
+      "away": {
+        "team": "Egypt",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 5.5,
+            "american": "450"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Saudi Arabia v Uruguay",
+    "date": "2026-06-15T18:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/saudi-arabia-v-uruguay",
+    "home_team": "Saudi Arabia",
+    "away_team": "Uruguay",
+    "odds": {
+      "home": {
+        "team": "Saudi Arabia",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 7.5,
+            "american": "650"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.4,
+            "american": "340"
+          }
+        ]
+      },
+      "away": {
+        "team": "Uruguay",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.4444,
+            "american": "-225"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Iran v New Zealand",
+    "date": "2026-06-15T21:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/iran-v-new-zealand",
+    "home_team": "Iran",
+    "away_team": "New Zealand",
+    "odds": {
+      "home": {
+        "team": "Iran",
+        "bookmakers": [
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "13/15",
+            "decimal": 1.87,
+            "american": "-115"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "13/15",
+            "decimal": 1.87,
+            "american": "-115"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "50/59",
+            "decimal": 1.85,
+            "american": "-118"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "17/20",
+            "decimal": 1.85,
+            "american": "-118"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "17/20",
+            "decimal": 1.85,
+            "american": "-118"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "49/20",
+            "decimal": 3.45,
+            "american": "+245"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "12/5",
+            "decimal": 3.4,
+            "american": "+240"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "12/5",
+            "decimal": 3.4,
+            "american": "+240"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "40/17",
+            "decimal": 3.35,
+            "american": "+235"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "47/20",
+            "decimal": 3.35,
+            "american": "+235"
+          }
+        ]
+      },
+      "away": {
+        "team": "New Zealand",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "7/2",
+            "decimal": 4.5,
+            "american": "+350"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "7/2",
+            "decimal": 4.5,
+            "american": "+350"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "10/3",
+            "decimal": 4.33,
+            "american": "+333"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "33/10",
+            "decimal": 4.3,
+            "american": "+330"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "33/10",
+            "decimal": 4.3,
+            "american": "+330"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "France v Senegal",
+    "date": "2026-06-16T15:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/france-v-senegal",
+    "home_team": "France",
+    "away_team": "Senegal",
+    "odds": {
+      "home": {
+        "team": "France",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.4785,
+            "american": "-209"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.5,
+            "american": "350"
+          }
+        ]
+      },
+      "away": {
+        "team": "Senegal",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 7.5,
+            "american": "650"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Iraq v Norway",
+    "date": "2026-06-16T18:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/iraq-v-norway",
+    "home_team": "Iraq",
+    "away_team": "Norway",
+    "odds": {
+      "home": {
+        "team": "Iraq",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 14.0,
+            "american": "1300"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 7.0,
+            "american": "600"
+          }
+        ]
+      },
+      "away": {
+        "team": "Norway",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.2083,
+            "american": "-480"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Argentina v Algeria",
+    "date": "2026-06-16T21:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/argentina-v-algeria",
+    "home_team": "Argentina",
+    "away_team": "Algeria",
+    "odds": {
+      "home": {
+        "team": "Argentina",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.4,
+            "american": "-250"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.75,
+            "american": "375"
+          }
+        ]
+      },
+      "away": {
+        "team": "Algeria",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 9.0,
+            "american": "800"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Austria v Jordan",
+    "date": "2026-06-17T00:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/austria-v-jordan",
+    "home_team": "Austria",
+    "away_team": "Jordan",
+    "odds": {
+      "home": {
+        "team": "Austria",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "33/100",
+            "decimal": 1.33,
+            "american": "-305"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "1/3",
+            "decimal": 1.33,
+            "american": "-300"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "5/16",
+            "decimal": 1.31,
+            "american": "-320"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "3/10",
+            "decimal": 1.3,
+            "american": "-333"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "3/10",
+            "decimal": 1.3,
+            "american": "-334"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "19/4",
+            "decimal": 5.75,
+            "american": "+475"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "22/5",
+            "decimal": 5.4,
+            "american": "+440"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "17/4",
+            "decimal": 5.25,
+            "american": "+425"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "17/4",
+            "decimal": 5.25,
+            "american": "+425"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "17/4",
+            "decimal": 5.25,
+            "american": "+425"
+          }
+        ]
+      },
+      "away": {
+        "team": "Jordan",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "17/2",
+            "decimal": 9.5,
+            "american": "+850"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "8/1",
+            "decimal": 9,
+            "american": "+800"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "31/4",
+            "decimal": 8.75,
+            "american": "+775"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "38/5",
+            "decimal": 8.6,
+            "american": "+760"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "15/2",
+            "decimal": 8.5,
+            "american": "+750"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Portugal v DR Congo",
+    "date": "2026-06-17T13:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/portugal-v-dr-congo",
+    "home_team": "Portugal",
+    "away_team": "DR Congo",
+    "odds": {
+      "home": {
+        "team": "Portugal",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.2778,
+            "american": "-360"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 6.0,
+            "american": "500"
+          }
+        ]
+      },
+      "away": {
+        "team": "DR Congo",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 11.0,
+            "american": "1000"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "England v Croatia",
+    "date": "2026-06-17T16:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/england-v-croatia",
+    "home_team": "England",
+    "away_team": "Croatia",
+    "odds": {
+      "home": {
+        "team": "England",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.7752,
+            "american": "-129"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.8,
+            "american": "280"
+          }
+        ]
+      },
+      "away": {
+        "team": "Croatia",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.8,
+            "american": "380"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Uzbekistan v Colombia",
+    "date": "2026-06-17T18:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/uzbekistan-v-colombia",
+    "home_team": "Uzbekistan",
+    "away_team": "Colombia",
+    "odds": {
+      "home": {
+        "team": "Uzbekistan",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "8/1",
+            "decimal": 9,
+            "american": "+800"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "15/2",
+            "decimal": 8.5,
+            "american": "+750"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "7/1",
+            "decimal": 8,
+            "american": "+700"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "34/5",
+            "decimal": 7.8,
+            "american": "+680"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "27/4",
+            "decimal": 7.75,
+            "american": "+675"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "18/5",
+            "decimal": 4.6,
+            "american": "+360"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "7/2",
+            "decimal": 4.5,
+            "american": "+350"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "7/2",
+            "decimal": 4.5,
+            "american": "+350"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "7/2",
+            "decimal": 4.5,
+            "american": "+350"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "17/5",
+            "decimal": 4.4,
+            "american": "+340"
+          }
+        ]
+      },
+      "away": {
+        "team": "Colombia",
+        "bookmakers": [
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "20/49",
+            "decimal": 1.41,
+            "american": "-245"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "7/17",
+            "decimal": 1.41,
+            "american": "-250"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "2/5",
+            "decimal": 1.4,
+            "american": "-250"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "2/5",
+            "decimal": 1.4,
+            "american": "-250"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "7/18",
+            "decimal": 1.39,
+            "american": "-256"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Ghana v Panama",
+    "date": "2026-06-17T19:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/ghana-v-panama",
+    "home_team": "Ghana",
+    "away_team": "Panama",
+    "odds": {
+      "home": {
+        "team": "Ghana",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "21/20",
+            "decimal": 2.07,
+            "american": "+107"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "21/20",
+            "decimal": 2.05,
+            "american": "+105"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "21/20",
+            "decimal": 2.05,
+            "american": "+105"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "24/23",
+            "decimal": 2.04,
+            "american": "+104"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "51/50",
+            "decimal": 2.02,
+            "american": "+102"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "5/2",
+            "decimal": 3.5,
+            "american": "+250"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "12/5",
+            "decimal": 3.4,
+            "american": "+240"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "12/5",
+            "decimal": 3.4,
+            "american": "+240"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "40/17",
+            "decimal": 3.35,
+            "american": "+235"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "23/10",
+            "decimal": 3.3,
+            "american": "+230"
+          }
+        ]
+      },
+      "away": {
+        "team": "Panama",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "13/5",
+            "decimal": 3.65,
+            "american": "+265"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "13/5",
+            "decimal": 3.6,
+            "american": "+260"
+          },
+          {
+            "bookmaker": "Caesars ON",
+            "fractional": "13/5",
+            "decimal": 3.6,
+            "american": "+260"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "13/5",
+            "decimal": 3.6,
+            "american": "+260"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "28/11",
+            "decimal": 3.55,
+            "american": "+255"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Czech Republic v South Africa",
+    "date": "2026-06-18T12:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/czech-republic-v-south-africa",
+    "home_team": "Czech Republic",
+    "away_team": "South Africa",
+    "odds": {
+      "home": {
+        "team": "Czech Republic",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.9709,
+            "american": "-103"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.3,
+            "american": "230"
+          }
+        ]
+      },
+      "away": {
+        "team": "South Africa",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.2,
+            "american": "320"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Switzerland v Bosnia and Herzegovina",
+    "date": "2026-06-18T15:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/switzerland-v-bosnia-and-herzegovina",
+    "home_team": "Switzerland",
+    "away_team": "Bosnia and Herzegovina",
+    "odds": {
+      "home": {
+        "team": "Switzerland",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.6098,
+            "american": "-164"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.0,
+            "american": "300"
+          }
+        ]
+      },
+      "away": {
+        "team": "Bosnia and Herzegovina",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 6.1,
+            "american": "510"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Canada v Qatar",
+    "date": "2026-06-18T18:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/canada-v-qatar",
+    "home_team": "Canada",
+    "away_team": "Qatar",
+    "odds": {
+      "home": {
+        "team": "Canada",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.2985,
+            "american": "-335"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 5.1,
+            "american": "410"
+          }
+        ]
+      },
+      "away": {
+        "team": "Qatar",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 11.0,
+            "american": "1000"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Mexico v South Korea",
+    "date": "2026-06-18T21:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/mexico-v-south-korea",
+    "home_team": "Mexico",
+    "away_team": "South Korea",
+    "odds": {
+      "home": {
+        "team": "Mexico",
+        "bookmakers": [
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "13/16",
+            "decimal": 1.81,
+            "american": "-123"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "4/5",
+            "decimal": 1.81,
+            "american": "-124"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "4/5",
+            "decimal": 1.8,
+            "american": "-125"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "10/13",
+            "decimal": 1.77,
+            "american": "-130"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "5/2",
+            "decimal": 3.5,
+            "american": "+250"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "5/2",
+            "decimal": 3.5,
+            "american": "+250"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "12/5",
+            "decimal": 3.4,
+            "american": "+240"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "11/5",
+            "decimal": 3.2,
+            "american": "+220"
+          }
+        ]
+      },
+      "away": {
+        "team": "South Korea",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "18/5",
+            "decimal": 4.7,
+            "american": "+370"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "7/2",
+            "decimal": 4.5,
+            "american": "+350"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "7/2",
+            "decimal": 4.5,
+            "american": "+350"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "31/10",
+            "decimal": 4.1,
+            "american": "+310"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "USA v Australia",
+    "date": "2026-06-19T15:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/usa-v-australia",
+    "home_team": "USA",
+    "away_team": "Australia",
+    "odds": {
+      "home": {
+        "team": "USA",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.7874,
+            "american": "-127"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.9,
+            "american": "290"
+          }
+        ]
+      },
+      "away": {
+        "team": "Australia",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.5,
+            "american": "350"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Scotland v Morocco",
+    "date": "2026-06-19T18:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/scotland-v-morocco",
+    "home_team": "Scotland",
+    "away_team": "Morocco",
+    "odds": {
+      "home": {
+        "team": "Scotland",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "3/1",
+            "decimal": 4.1,
+            "american": "+310"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "3/1",
+            "decimal": 4,
+            "american": "+300"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "56/19",
+            "decimal": 3.95,
+            "american": "+295"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "13/5",
+            "decimal": 3.6,
+            "american": "+260"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "23/10",
+            "decimal": 3.3,
+            "american": "+230"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "23/10",
+            "decimal": 3.3,
+            "american": "+230"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "9/4",
+            "decimal": 3.25,
+            "american": "+225"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "21/10",
+            "decimal": 3.1,
+            "american": "+210"
+          }
+        ]
+      },
+      "away": {
+        "team": "Morocco",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "1/1",
+            "decimal": 2,
+            "american": "+100"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "39/40",
+            "decimal": 1.98,
+            "american": "-102"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "19/20",
+            "decimal": 1.95,
+            "american": "-106"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "9/10",
+            "decimal": 1.9,
+            "american": "-110"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Brazil v Haiti",
+    "date": "2026-06-19T20:30:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/brazil-v-haiti",
+    "home_team": "Brazil",
+    "away_team": "Haiti",
+    "odds": {
+      "home": {
+        "team": "Brazil",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "1/12",
+            "decimal": 1.083,
+            "american": "-1200"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "1/12",
+            "decimal": 1.08,
+            "american": "-1200"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "1/14",
+            "decimal": 1.08,
+            "american": "-1250"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "1/14",
+            "decimal": 1.07,
+            "american": "-1429"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "21/2",
+            "decimal": 11.5,
+            "american": "+1050"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "10/1",
+            "decimal": 11,
+            "american": "+1000"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "9/1",
+            "decimal": 10,
+            "american": "+900"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "17/2",
+            "decimal": 9.5,
+            "american": "+850"
+          }
+        ]
+      },
+      "away": {
+        "team": "Haiti",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "30/1",
+            "decimal": 31,
+            "american": "+3000"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "24/1",
+            "decimal": 25,
+            "american": "+2400"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "20/1",
+            "decimal": 21,
+            "american": "+2000"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "35/2",
+            "decimal": 18.5,
+            "american": "+1750"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Turkey v Paraguay",
+    "date": "2026-06-19T23:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/turkey-v-paraguay",
+    "home_team": "Turkey",
+    "away_team": "Paraguay",
+    "odds": {
+      "home": {
+        "team": "Turkey",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "6/5",
+            "decimal": 2.23,
+            "american": "+123"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "6/5",
+            "decimal": 2.2,
+            "american": "+120"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "6/5",
+            "decimal": 2.2,
+            "american": "+120"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "11/10",
+            "decimal": 2.1,
+            "american": "+110"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "11/5",
+            "decimal": 3.2,
+            "american": "+220"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "28/13",
+            "decimal": 3.15,
+            "american": "+215"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "21/10",
+            "decimal": 3.1,
+            "american": "+210"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "2/1",
+            "decimal": 3,
+            "american": "+200"
+          }
+        ]
+      },
+      "away": {
+        "team": "Paraguay",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "5/2",
+            "decimal": 3.5,
+            "american": "+250"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "49/20",
+            "decimal": 3.45,
+            "american": "+245"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "40/17",
+            "decimal": 3.35,
+            "american": "+235"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "21/10",
+            "decimal": 3.1,
+            "american": "+210"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Netherlands v Sweden",
+    "date": "2026-06-20T13:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/netherlands-v-sweden",
+    "home_team": "Netherlands",
+    "away_team": "Sweden",
+    "odds": {
+      "home": {
+        "team": "Netherlands",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.6452,
+            "american": "-155"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.0,
+            "american": "300"
+          }
+        ]
+      },
+      "away": {
+        "team": "Sweden",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 5.3,
+            "american": "430"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Germany v Ivory Coast",
+    "date": "2026-06-20T16:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/germany-v-ivory-coast",
+    "home_team": "Germany",
+    "away_team": "Ivory Coast",
+    "odds": {
+      "home": {
+        "team": "Germany",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "4/7",
+            "decimal": 1.58,
+            "american": "-175"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "11/20",
+            "decimal": 1.55,
+            "american": "-182"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "8/15",
+            "decimal": 1.54,
+            "american": "-185"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "1/2",
+            "decimal": 1.5,
+            "american": "-200"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "16/5",
+            "decimal": 4.2,
+            "american": "+320"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "3/1",
+            "decimal": 4.1,
+            "american": "+310"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "31/10",
+            "decimal": 4.1,
+            "american": "+310"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "29/10",
+            "decimal": 3.9,
+            "american": "+290"
+          }
+        ]
+      },
+      "away": {
+        "team": "Ivory Coast",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "24/5",
+            "decimal": 5.8,
+            "american": "+480"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "23/5",
+            "decimal": 5.6,
+            "american": "+460"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "9/2",
+            "decimal": 5.5,
+            "american": "+450"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "4/1",
+            "decimal": 5,
+            "american": "+400"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Ecuador v Curacao",
+    "date": "2026-06-20T20:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/ecuador-v-curacao",
+    "home_team": "Ecuador",
+    "away_team": "Curacao",
+    "odds": {
+      "home": {
+        "team": "Ecuador",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "1/5",
+            "decimal": 1.21,
+            "american": "-480"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "3/16",
+            "decimal": 1.19,
+            "american": "-525"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "2/11",
+            "decimal": 1.182,
+            "american": "-550"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "2/11",
+            "decimal": 1.18,
+            "american": "-556"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "6/1",
+            "decimal": 7,
+            "american": "+600"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "28/5",
+            "decimal": 6.6,
+            "american": "+560"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "27/5",
+            "decimal": 6.4,
+            "american": "+540"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "19/4",
+            "decimal": 5.75,
+            "american": "+475"
+          }
+        ]
+      },
+      "away": {
+        "team": "Curacao",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "14/1",
+            "decimal": 15,
+            "american": "+1400"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "13/1",
+            "decimal": 14,
+            "american": "+1300"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "12/1",
+            "decimal": 13,
+            "american": "+1200"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "10/1",
+            "decimal": 11,
+            "american": "+1000"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Tunisia v Japan",
+    "date": "2026-06-21T00:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/tunisia-v-japan",
+    "home_team": "Tunisia",
+    "away_team": "Japan",
+    "odds": {
+      "home": {
+        "team": "Tunisia",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "9/2",
+            "decimal": 5.5,
+            "american": "+450"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "4/1",
+            "decimal": 5.1,
+            "american": "+410"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "4/1",
+            "decimal": 5,
+            "american": "+400"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "7/2",
+            "decimal": 4.5,
+            "american": "+350"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "13/5",
+            "decimal": 3.6,
+            "american": "+260"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "5/2",
+            "decimal": 3.5,
+            "american": "+250"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "5/2",
+            "decimal": 3.5,
+            "american": "+250"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "23/10",
+            "decimal": 3.3,
+            "american": "+230"
+          }
+        ]
+      },
+      "away": {
+        "team": "Japan",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "8/11",
+            "decimal": 1.74,
+            "american": "-136"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "7/10",
+            "decimal": 1.7,
+            "american": "-143"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "13/19",
+            "decimal": 1.68,
+            "american": "-145"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "4/6",
+            "decimal": 1.667,
+            "american": "-150"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Spain v Saudi Arabia",
+    "date": "2026-06-21T12:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/spain-v-saudi-arabia",
+    "home_team": "Spain",
+    "away_team": "Saudi Arabia",
+    "odds": {
+      "home": {
+        "team": "Spain",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.1111,
+            "american": "-900"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 9.5,
+            "american": "850"
+          }
+        ]
+      },
+      "away": {
+        "team": "Saudi Arabia",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 26.0,
+            "american": "2500"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Belgium v Iran",
+    "date": "2026-06-21T15:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/belgium-v-iran",
+    "home_team": "Belgium",
+    "away_team": "Iran",
+    "odds": {
+      "home": {
+        "team": "Belgium",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.4,
+            "american": "-250"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.75,
+            "american": "375"
+          }
+        ]
+      },
+      "away": {
+        "team": "Iran",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 8.5,
+            "american": "750"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Uruguay v Cape Verde",
+    "date": "2026-06-21T18:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/uruguay-v-cape-verde",
+    "home_team": "Uruguay",
+    "away_team": "Cape Verde",
+    "odds": {
+      "home": {
+        "team": "Uruguay",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.4545,
+            "american": "-220"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.4,
+            "american": "340"
+          }
+        ]
+      },
+      "away": {
+        "team": "Cape Verde",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 7.5,
+            "american": "650"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "New Zealand v Egypt",
+    "date": "2026-06-21T21:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/new-zealand-v-egypt",
+    "home_team": "New Zealand",
+    "away_team": "Egypt",
+    "odds": {
+      "home": {
+        "team": "New Zealand",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "21/5",
+            "decimal": 5.2,
+            "american": "+420"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "4/1",
+            "decimal": 5,
+            "american": "+400"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "19/5",
+            "decimal": 4.8,
+            "american": "+380"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "17/5",
+            "decimal": 4.4,
+            "american": "+340"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "13/5",
+            "decimal": 3.6,
+            "american": "+260"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "13/5",
+            "decimal": 3.6,
+            "american": "+260"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "5/2",
+            "decimal": 3.5,
+            "american": "+250"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "23/10",
+            "decimal": 3.3,
+            "american": "+230"
+          }
+        ]
+      },
+      "away": {
+        "team": "Egypt",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "8/11",
+            "decimal": 1.727,
+            "american": "-138"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "7/10",
+            "decimal": 1.72,
+            "american": "-139"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "5/7",
+            "decimal": 1.71,
+            "american": "-141"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "13/19",
+            "decimal": 1.68,
+            "american": "-145"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Argentina v Austria",
+    "date": "2026-06-22T13:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/argentina-v-austria",
+    "home_team": "Argentina",
+    "away_team": "Austria",
+    "odds": {
+      "home": {
+        "team": "Argentina",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "13/20",
+            "decimal": 1.66,
+            "american": "-152"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "7/11",
+            "decimal": 1.64,
+            "american": "-156"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "8/13",
+            "decimal": 1.615,
+            "american": "-163"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "7/12",
+            "decimal": 1.58,
+            "american": "-175"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "29/10",
+            "decimal": 3.9,
+            "american": "+290"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "14/5",
+            "decimal": 3.8,
+            "american": "+280"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "11/4",
+            "decimal": 3.75,
+            "american": "+275"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "5/2",
+            "decimal": 3.5,
+            "american": "+250"
+          }
+        ]
+      },
+      "away": {
+        "team": "Austria",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "9/2",
+            "decimal": 5.5,
+            "american": "+450"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "21/5",
+            "decimal": 5.2,
+            "american": "+420"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "21/5",
+            "decimal": 5.2,
+            "american": "+420"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "19/5",
+            "decimal": 4.8,
+            "american": "+380"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "France v Iraq",
+    "date": "2026-06-22T17:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/france-v-iraq",
+    "home_team": "France",
+    "away_team": "Iraq",
+    "odds": {
+      "home": {
+        "team": "France",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.1299,
+            "american": "-770"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 9.0,
+            "american": "800"
+          }
+        ]
+      },
+      "away": {
+        "team": "Iraq",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 21.0,
+            "american": "2000"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Norway v Senegal",
+    "date": "2026-06-22T20:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/norway-v-senegal",
+    "home_team": "Norway",
+    "away_team": "Senegal",
+    "odds": {
+      "home": {
+        "team": "Norway",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 2.15,
+            "american": "115"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.45,
+            "american": "245"
+          }
+        ]
+      },
+      "away": {
+        "team": "Senegal",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.5,
+            "american": "250"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Jordan v Algeria",
+    "date": "2026-06-22T23:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/jordan-v-algeria",
+    "home_team": "Jordan",
+    "away_team": "Algeria",
+    "odds": {
+      "home": {
+        "team": "Jordan",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "11/2",
+            "decimal": 6.5,
+            "american": "+550"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "21/4",
+            "decimal": 6.25,
+            "american": "+525"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "5/1",
+            "decimal": 6,
+            "american": "+500"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "9/2",
+            "decimal": 5.5,
+            "american": "+450"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "3/1",
+            "decimal": 4.1,
+            "american": "+310"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "3/1",
+            "decimal": 4,
+            "american": "+300"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "14/5",
+            "decimal": 3.8,
+            "american": "+280"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "27/10",
+            "decimal": 3.7,
+            "american": "+270"
+          }
+        ]
+      },
+      "away": {
+        "team": "Algeria",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "8/15",
+            "decimal": 1.54,
+            "american": "-186"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "8/15",
+            "decimal": 1.533,
+            "american": "-188"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "11/21",
+            "decimal": 1.52,
+            "american": "-192"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "1/2",
+            "decimal": 1.5,
+            "american": "-200"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Portugal v Uzbekistan",
+    "date": "2026-06-23T13:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/portugal-v-uzbekistan",
+    "home_team": "Portugal",
+    "away_team": "Uzbekistan",
+    "odds": {
+      "home": {
+        "team": "Portugal",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.2597,
+            "american": "-385"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 6.5,
+            "american": "550"
+          }
+        ]
+      },
+      "away": {
+        "team": "Uzbekistan",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 11.5,
+            "american": "1050"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "England v Ghana",
+    "date": "2026-06-23T16:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/england-v-ghana",
+    "home_team": "England",
+    "away_team": "Ghana",
+    "odds": {
+      "home": {
+        "team": "England",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.3497,
+            "american": "-286"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 5.2,
+            "american": "420"
+          }
+        ]
+      },
+      "away": {
+        "team": "Ghana",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 9.5,
+            "american": "850"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Panama v Croatia",
+    "date": "2026-06-23T19:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/panama-v-croatia",
+    "home_team": "Panama",
+    "away_team": "Croatia",
+    "odds": {
+      "home": {
+        "team": "Panama",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 6.75,
+            "american": "575"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.1,
+            "american": "310"
+          }
+        ]
+      },
+      "away": {
+        "team": "Croatia",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.5405,
+            "american": "-185"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Colombia v DR Congo",
+    "date": "2026-06-23T22:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/colombia-v-dr-congo",
+    "home_team": "Colombia",
+    "away_team": "DR Congo",
+    "odds": {
+      "home": {
+        "team": "Colombia",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "1/2",
+            "decimal": 1.5,
+            "american": "-200"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "5/11",
+            "decimal": 1.45,
+            "american": "-222"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "9/20",
+            "decimal": 1.45,
+            "american": "-223"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "4/9",
+            "decimal": 1.44,
+            "american": "-225"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "10/3",
+            "decimal": 4.333,
+            "american": "+333"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "31/10",
+            "decimal": 4.1,
+            "american": "+310"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "3/1",
+            "decimal": 4,
+            "american": "+300"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "11/4",
+            "decimal": 3.75,
+            "american": "+275"
+          }
+        ]
+      },
+      "away": {
+        "team": "DR Congo",
+        "bookmakers": [
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "31/5",
+            "decimal": 7.2,
+            "american": "+620"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "6/1",
+            "decimal": 7,
+            "american": "+600"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "6/1",
+            "decimal": 7,
+            "american": "+600"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "21/4",
+            "decimal": 6.25,
+            "american": "+525"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Switzerland v Canada",
+    "date": "2026-06-24T15:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/switzerland-v-canada",
+    "home_team": "Switzerland",
+    "away_team": "Canada",
+    "odds": {
+      "home": {
+        "team": "Switzerland",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 2.1,
+            "american": "110"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.4,
+            "american": "240"
+          }
+        ]
+      },
+      "away": {
+        "team": "Canada",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.8,
+            "american": "280"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Bosnia and Herzegovina v Qatar",
+    "date": "2026-06-24T15:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/bosnia-and-herzegovina-v-qatar",
+    "home_team": "Bosnia and Herzegovina",
+    "away_team": "Qatar",
+    "odds": {
+      "home": {
+        "team": "Bosnia and Herzegovina",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.5714,
+            "american": "-175"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.0,
+            "american": "300"
+          }
+        ]
+      },
+      "away": {
+        "team": "Qatar",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 6.5,
+            "american": "550"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Scotland v Brazil",
+    "date": "2026-06-24T18:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/scotland-v-brazil",
+    "home_team": "Scotland",
+    "away_team": "Brazil",
+    "odds": {
+      "home": {
+        "team": "Scotland",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 6.6,
+            "american": "560"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.7,
+            "american": "370"
+          }
+        ]
+      },
+      "away": {
+        "team": "Brazil",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.4545,
+            "american": "-220"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Morocco v Haiti",
+    "date": "2026-06-24T18:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/morocco-v-haiti",
+    "home_team": "Morocco",
+    "away_team": "Haiti",
+    "odds": {
+      "home": {
+        "team": "Morocco",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.3333,
+            "american": "-300"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 5.25,
+            "american": "425"
+          }
+        ]
+      },
+      "away": {
+        "team": "Haiti",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 9.5,
+            "american": "850"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "South Africa v South Korea",
+    "date": "2026-06-24T21:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/south-africa-v-south-korea",
+    "home_team": "South Africa",
+    "away_team": "South Korea",
+    "odds": {
+      "home": {
+        "team": "South Africa",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "3/1",
+            "decimal": 4,
+            "american": "+300"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "37/13",
+            "decimal": 3.85,
+            "american": "+285"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "5/2",
+            "decimal": 3.5,
+            "american": "+250"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "5/2",
+            "decimal": 3.5,
+            "american": "+250"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "12/5",
+            "decimal": 3.4,
+            "american": "+240"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "40/17",
+            "decimal": 3.35,
+            "american": "+235"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "9/4",
+            "decimal": 3.25,
+            "american": "+225"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "11/5",
+            "decimal": 3.2,
+            "american": "+220"
+          }
+        ]
+      },
+      "away": {
+        "team": "South Korea",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "27/25",
+            "decimal": 2.08,
+            "american": "+108"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "22/23",
+            "decimal": 1.96,
+            "american": "-104"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "10/11",
+            "decimal": 1.909,
+            "american": "-111"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "9/10",
+            "decimal": 1.9,
+            "american": "-110"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Czech Republic v Mexico",
+    "date": "2026-06-24T21:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/czech-republic-v-mexico",
+    "home_team": "Czech Republic",
+    "away_team": "Mexico",
+    "odds": {
+      "home": {
+        "team": "Czech Republic",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.5,
+            "american": "350"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.5,
+            "american": "250"
+          }
+        ]
+      },
+      "away": {
+        "team": "Mexico",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.8696,
+            "american": "-115"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Ecuador v Germany",
+    "date": "2026-06-25T16:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/ecuador-v-germany",
+    "home_team": "Ecuador",
+    "away_team": "Germany",
+    "odds": {
+      "home": {
+        "team": "Ecuador",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 5.0,
+            "american": "400"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.75,
+            "american": "275"
+          }
+        ]
+      },
+      "away": {
+        "team": "Germany",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.7353,
+            "american": "-136"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Curacao v Ivory Coast",
+    "date": "2026-06-25T16:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/curacao-v-ivory-coast",
+    "home_team": "Curacao",
+    "away_team": "Ivory Coast",
+    "odds": {
+      "home": {
+        "team": "Curacao",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 13.0,
+            "american": "1200"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 6.5,
+            "american": "550"
+          }
+        ]
+      },
+      "away": {
+        "team": "Ivory Coast",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.2299,
+            "american": "-435"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Japan v Sweden",
+    "date": "2026-06-25T19:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/japan-v-sweden",
+    "home_team": "Japan",
+    "away_team": "Sweden",
+    "odds": {
+      "home": {
+        "team": "Japan",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 2.08,
+            "american": "108"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.4,
+            "american": "240"
+          }
+        ]
+      },
+      "away": {
+        "team": "Sweden",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.65,
+            "american": "265"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Tunisia v Netherlands",
+    "date": "2026-06-25T19:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/tunisia-v-netherlands",
+    "home_team": "Tunisia",
+    "away_team": "Netherlands",
+    "odds": {
+      "home": {
+        "team": "Tunisia",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 6.75,
+            "american": "575"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.35,
+            "american": "335"
+          }
+        ]
+      },
+      "away": {
+        "team": "Netherlands",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.5,
+            "american": "-200"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Paraguay v Australia",
+    "date": "2026-06-25T22:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/paraguay-v-australia",
+    "home_team": "Paraguay",
+    "away_team": "Australia",
+    "odds": {
+      "home": {
+        "team": "Paraguay",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "6/5",
+            "decimal": 2.2,
+            "american": "+120"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "6/5",
+            "decimal": 2.2,
+            "american": "+120"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "22/19",
+            "decimal": 2.16,
+            "american": "+116"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "21/20",
+            "decimal": 2.05,
+            "american": "+105"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "9/4",
+            "decimal": 3.25,
+            "american": "+225"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "11/5",
+            "decimal": 3.2,
+            "american": "+220"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "11/5",
+            "decimal": 3.2,
+            "american": "+220"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "2/1",
+            "decimal": 3,
+            "american": "+200"
+          }
+        ]
+      },
+      "away": {
+        "team": "Australia",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "49/20",
+            "decimal": 3.45,
+            "american": "+245"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "12/5",
+            "decimal": 3.4,
+            "american": "+240"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "12/5",
+            "decimal": 3.4,
+            "american": "+240"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "11/5",
+            "decimal": 3.2,
+            "american": "+220"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Turkey v USA",
+    "date": "2026-06-25T22:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/turkey-v-usa",
+    "home_team": "Turkey",
+    "away_team": "USA",
+    "odds": {
+      "home": {
+        "team": "Turkey",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 2.7,
+            "american": "170"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.5,
+            "american": "250"
+          }
+        ]
+      },
+      "away": {
+        "team": "USA",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 2.6,
+            "american": "160"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Norway v France",
+    "date": "2026-06-26T15:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/norway-v-france",
+    "home_team": "Norway",
+    "away_team": "France",
+    "odds": {
+      "home": {
+        "team": "Norway",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.3,
+            "american": "330"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.65,
+            "american": "265"
+          }
+        ]
+      },
+      "away": {
+        "team": "France",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.8333,
+            "american": "-120"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Senegal v Iraq",
+    "date": "2026-06-26T15:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/senegal-v-iraq",
+    "home_team": "Senegal",
+    "away_team": "Iraq",
+    "odds": {
+      "home": {
+        "team": "Senegal",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "11/25",
+            "decimal": 1.44,
+            "american": "-230"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "21/50",
+            "decimal": 1.42,
+            "american": "-239"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "7/17",
+            "decimal": 1.41,
+            "american": "-250"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "7/17",
+            "decimal": 1.41,
+            "american": "-244"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "7/2",
+            "decimal": 4.5,
+            "american": "+350"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "17/5",
+            "decimal": 4.4,
+            "american": "+340"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "10/3",
+            "decimal": 4.35,
+            "american": "+335"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "3/1",
+            "decimal": 4,
+            "american": "+300"
+          }
+        ]
+      },
+      "away": {
+        "team": "Iraq",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "7/1",
+            "decimal": 8,
+            "american": "+700"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "31/5",
+            "decimal": 7.2,
+            "american": "+620"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "6/1",
+            "decimal": 7,
+            "american": "+600"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "21/4",
+            "decimal": 6.25,
+            "american": "+525"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Uruguay v Spain",
+    "date": "2026-06-26T20:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/uruguay-v-spain",
+    "home_team": "Uruguay",
+    "away_team": "Spain",
+    "odds": {
+      "home": {
+        "team": "Uruguay",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 5.4,
+            "american": "440"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 4.0,
+            "american": "300"
+          }
+        ]
+      },
+      "away": {
+        "team": "Spain",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.6452,
+            "american": "-155"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Cape Verde v Saudi Arabia",
+    "date": "2026-06-26T20:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/cape-verde-v-saudi-arabia",
+    "home_team": "Cape Verde",
+    "away_team": "Saudi Arabia",
+    "odds": {
+      "home": {
+        "team": "Cape Verde",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 2.63,
+            "american": "163"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.5,
+            "american": "250"
+          }
+        ]
+      },
+      "away": {
+        "team": "Saudi Arabia",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 2.75,
+            "american": "175"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Egypt v Iran",
+    "date": "2026-06-26T23:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/egypt-v-iran",
+    "home_team": "Egypt",
+    "away_team": "Iran",
+    "odds": {
+      "home": {
+        "team": "Egypt",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "5/4",
+            "decimal": 2.25,
+            "american": "+125"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "16/13",
+            "decimal": 2.23,
+            "american": "+123"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "6/5",
+            "decimal": 2.23,
+            "american": "+123"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "15/13",
+            "decimal": 2.15,
+            "american": "+115"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "21/10",
+            "decimal": 3.1,
+            "american": "+210"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "37/19",
+            "decimal": 2.95,
+            "american": "+195"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "19/10",
+            "decimal": 2.9,
+            "american": "+190"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "28/15",
+            "decimal": 2.87,
+            "american": "+188"
+          }
+        ]
+      },
+      "away": {
+        "team": "Iran",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "13/5",
+            "decimal": 3.6,
+            "american": "+260"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "13/5",
+            "decimal": 3.6,
+            "american": "+260"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "28/11",
+            "decimal": 3.55,
+            "american": "+255"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "11/5",
+            "decimal": 3.2,
+            "american": "+220"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "New Zealand v Belgium",
+    "date": "2026-06-26T23:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/new-zealand-v-belgium",
+    "home_team": "New Zealand",
+    "away_team": "Belgium",
+    "odds": {
+      "home": {
+        "team": "New Zealand",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 10.0,
+            "american": "900"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 5.75,
+            "american": "475"
+          }
+        ]
+      },
+      "away": {
+        "team": "Belgium",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.2994,
+            "american": "-334"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Panama v England",
+    "date": "2026-06-27T17:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/panama-v-england",
+    "home_team": "Panama",
+    "away_team": "England",
+    "odds": {
+      "home": {
+        "team": "Panama",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "17/2",
+            "decimal": 9.5,
+            "american": "+850"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "42/5",
+            "decimal": 9.4,
+            "american": "+840"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "15/2",
+            "decimal": 8.5,
+            "american": "+750"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "15/2",
+            "decimal": 8.5,
+            "american": "+750"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "19/4",
+            "decimal": 5.75,
+            "american": "+475"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "23/5",
+            "decimal": 5.6,
+            "american": "+460"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "17/4",
+            "decimal": 5.25,
+            "american": "+425"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "17/4",
+            "decimal": 5.25,
+            "american": "+425"
+          }
+        ]
+      },
+      "away": {
+        "team": "England",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "8/25",
+            "decimal": 1.32,
+            "american": "-315"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "2/7",
+            "decimal": 1.286,
+            "american": "-350"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "3/11",
+            "decimal": 1.27,
+            "american": "-370"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "4/17",
+            "decimal": 1.24,
+            "american": "-425"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Croatia v Ghana",
+    "date": "2026-06-27T17:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/croatia-v-ghana",
+    "home_team": "Croatia",
+    "away_team": "Ghana",
+    "odds": {
+      "home": {
+        "team": "Croatia",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.6452,
+            "american": "-155"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.75,
+            "american": "275"
+          }
+        ]
+      },
+      "away": {
+        "team": "Ghana",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 5.6,
+            "american": "460"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "DR Congo v Uzbekistan",
+    "date": "2026-06-27T19:30:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/dr-congo-v-uzbekistan",
+    "home_team": "DR Congo",
+    "away_team": "Uzbekistan",
+    "odds": {
+      "home": {
+        "team": "DR Congo",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 2.35,
+            "american": "135"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.4,
+            "american": "240"
+          }
+        ]
+      },
+      "away": {
+        "team": "Uzbekistan",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.2,
+            "american": "220"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Colombia v Portugal",
+    "date": "2026-06-27T19:30:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/colombia-v-portugal",
+    "home_team": "Colombia",
+    "away_team": "Portugal",
+    "odds": {
+      "home": {
+        "team": "Colombia",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "13/5",
+            "decimal": 3.6,
+            "american": "+260"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "27/11",
+            "decimal": 3.45,
+            "american": "+245"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "12/5",
+            "decimal": 3.4,
+            "american": "+240"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "11/5",
+            "decimal": 3.2,
+            "american": "+220"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "23/10",
+            "decimal": 3.3,
+            "american": "+230"
+          },
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "9/4",
+            "decimal": 3.25,
+            "american": "+225"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "9/4",
+            "decimal": 3.25,
+            "american": "+225"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "21/10",
+            "decimal": 3.1,
+            "american": "+210"
+          }
+        ]
+      },
+      "away": {
+        "team": "Portugal",
+        "bookmakers": [
+          {
+            "bookmaker": "Bet365 ON",
+            "fractional": "23/20",
+            "decimal": 2.15,
+            "american": "+115"
+          },
+          {
+            "bookmaker": "BetRivers ON",
+            "fractional": "11/10",
+            "decimal": 2.12,
+            "american": "+112"
+          },
+          {
+            "bookmaker": "TonyBet Ontario",
+            "fractional": "10/9",
+            "decimal": 2.11,
+            "american": "+111"
+          },
+          {
+            "bookmaker": "Sports Interaction",
+            "fractional": "1/1",
+            "decimal": 2,
+            "american": "+100"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Jordan v Argentina",
+    "date": "2026-06-27T22:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/jordan-v-argentina",
+    "home_team": "Jordan",
+    "away_team": "Argentina",
+    "odds": {
+      "home": {
+        "team": "Jordan",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 14.0,
+            "american": "1300"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 6.5,
+            "american": "550"
+          }
+        ]
+      },
+      "away": {
+        "team": "Argentina",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 1.2299,
+            "american": "-435"
+          }
+        ]
+      }
+    }
+  },
+  {
+    "match": "Algeria v Austria",
+    "date": "2026-06-27T22:00:00-04:00",
+    "url": "https://www.oddschecker.com/us/soccer/world-cup/algeria-v-austria",
+    "home_team": "Algeria",
+    "away_team": "Austria",
+    "odds": {
+      "home": {
+        "team": "Algeria",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.5,
+            "american": "250"
+          }
+        ]
+      },
+      "draw": {
+        "team": "Draw",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 3.3,
+            "american": "230"
+          }
+        ]
+      },
+      "away": {
+        "team": "Austria",
+        "bookmakers": [
+          {
+            "bookmaker": "oddschecker",
+            "decimal": 2.18,
+            "american": "118"
+          }
+        ]
+      }
+    }
+  }
+]
